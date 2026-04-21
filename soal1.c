@@ -39,6 +39,8 @@ int main(void) {
         }
     }
 
-    printf("%s",new_string);
+    printf("%s\n",new_string);
+
+    //Harusnya Test case 8 output di terminal sudah benar dari ((a) menjadi (a)
     return 0;
 }
