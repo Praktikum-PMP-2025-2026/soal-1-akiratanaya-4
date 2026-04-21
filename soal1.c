@@ -5,7 +5,7 @@ int main(void) {
 
     char string [100];
     char new_string[100];
-    scanf("%s",string);
+    gets("%s",string);
     // printf("Panjang : %ld\n",strlen(string));
     // printf("string = %s\n", string);
     // printf("string [o]:%c\n", string[0]);
