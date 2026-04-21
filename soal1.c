@@ -39,6 +39,6 @@ int main(void) {
         }
     }
 
-    printf("%s\n",new_string);
+    printf("%s",new_string);
     return 0;
 }
